@@ -1,0 +1,71 @@
+.blog{
+   font-family: 'Style Script', cursive;
+   font-size: 80px;
+   color: rgb(66, 20, 66);
+
+}
+
+body{
+    background-color: rgba(245, 204, 240, 0.835);
+    text-align-last: center;
+
+}
+
+.navbar{
+    background-color: rgb(197, 151, 167);
+    border-radius: 5px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    float:left;
+  list-style: none;
+  margin: 5px 70px;
+
+}
+
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none; 
+    color: rgb(235, 227, 227); 
+}
+
+.search{
+    float: right;
+    color: white;
+    padding: 5px 75px;
+}
+
+.navbar input{
+    border: 2px solid rgb(214, 185, 214);
+    border-radius: 4px;
+
+}
+
+.title{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align-last: left;
+    color: rgba(92, 65, 92, 0.856);
+
+}
+
+.image{
+    padding:0px 20px;
+}
+
+.box{
+    display: flex;
+}
+
+.card{
+    padding: 23px 12px;
+    border: rgb(66, 20, 66);
+    margin: 23px 12px;
+    background: rgba(209, 159, 209, 0.842)
+}
+
+
